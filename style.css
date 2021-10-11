@@ -58,7 +58,7 @@ img {
   right: 65%;
 }
 .col-sm-12:nth-child(1) {
-  margin-top: 230px !important;
+  margin-top: 200px !important;
 }
 .col-sm-12:hover figure {
   border-width: 0px;
@@ -89,10 +89,4 @@ p {
   text-justify: inter-word;
   color: #4a4a4a;
   font-size: 14px;
-}
-
-@media screen and (max-width:400px) {
-  .parallax {
-    background-attachment: inherit;
-  }
 }
