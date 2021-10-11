@@ -1,3 +1,3 @@
-skrollr.init({
-  forceHeight: true
-});
+//skrollr.init({
+//  forceHeight: true
+//});
