@@ -76,7 +76,7 @@ p {
   color: #000000;
   text-shadow: 1px 1px 3px white;
   font-size: 15px;
-
+/*
 }
 .post-title{
   text-align: justify;
@@ -132,6 +132,9 @@ p {
   width: 100%;
   z-index: -10;
 }
+
+*/
+
 .ct-btn-scroll {
   width: 49px;
   height: 49px;
