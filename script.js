@@ -1,8 +1,8 @@
-/* previous code
+ previous code
 skrollr.init({
   forceHeight: false
 });
-*/
+
 
 .separator-type, .title-type, .intro-type, .content-type .intro-type p {
   position: relative;
