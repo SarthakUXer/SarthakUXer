@@ -3,7 +3,7 @@ skrollr.init({
   forceHeight: false
 });
 
-
+/*
 .separator-type, .title-type, .intro-type, .content-type .intro-type p {
   position: relative;
 }
@@ -63,3 +63,4 @@ img,
 figure {
   max-width: 100%;
 }
+*/
