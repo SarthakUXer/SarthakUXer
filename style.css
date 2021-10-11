@@ -91,3 +91,8 @@ p {
   font-size: 14px;
 }
 
+@media screen and (max-width:400px) {
+  .parallax {
+    background-attachment: inherit;
+  }
+}
