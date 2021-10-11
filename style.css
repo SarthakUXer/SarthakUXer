@@ -1,7 +1,10 @@
 .project-posts {
   margin: 0 60px;
 }
-
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #888;
+}
 figure {
   height: 500px;
   width: 100%;
